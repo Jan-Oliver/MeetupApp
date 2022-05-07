@@ -4,15 +4,18 @@ This project is a simplistic meetup application that resulted from my efforts to
 
 ### App Features
 - *Meetup Page* containing all existing Meetups in the MongoDB database
-![plot](./imgs/MeetupPage.png)
+<img src="./imgs/MeetupPage.png" height="200">
+
 - *Favourites Page* containing the Meetups that the User liked.
-![plot](./imgs/FavouritesPage.png)
+<img src="./imgs/FavouritesPage.png" height="200">
+
 - *Add Meetups page* where the User can add new Meetups, which are after submission, stored in the Database using Mongo Realm functions.  
-![plot](./imgs/AddPage.png)
+<img src="./imgs/AddPage.png" height="200">
+
 - *Fully responsive* design implemented using TailwindCSS.
     <div>
     <img src="./imgs/Responsive.png" height="200">
-    <img src="./imgs/Responsive2.png" height="200">
+    <img src="./imgs/Responsive2.png" height="300">
     </div>
 
 
